@@ -4,6 +4,4 @@ ignore/*
 .deps/*
 *.o
 *.so
-sql/*.sql
 !sql/check_access.sql
-

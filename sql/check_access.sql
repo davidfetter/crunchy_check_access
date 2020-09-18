@@ -1,8 +1,8 @@
 /*
- * 
+ *
  * Copyright 2015-2019 Crunchy Data Solutions, Inc.
  * Copyright 2009-2015 Joe Conway <mail@joeconway.com>
- * 
+ *
  * Permission to use, copy, modify, and distribute this software and its
  * documentation for any purpose, without fee, and without a written agreement
  * is hereby granted, provided that the above copyright notice and this
